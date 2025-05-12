@@ -1,0 +1,12 @@
+git+https://github.com/cumulo-autumn/StreamDiffusion.git@main#egg=streamdiffusion
+
+opencv-python
+numpy
+Pillow
+fire
+mss
+matplotlib
+python-osc
+PyOpenGL
+einops
+peft>=0.0.0
